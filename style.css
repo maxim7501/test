@@ -1,0 +1,48 @@
+body {
+    background-color:whitesmoke;
+
+}
+.nolik {
+    background-image: url("nolik.png");
+
+    background-size: 96px;
+}
+.krestik{
+    background-image: url("krestik.png");
+
+    background-size: 96px;
+}
+.action{
+    text-align: center;
+}
+
+.container{
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 300px;
+    float: contour;
+}
+
+.cell{
+    background-color: #1abf7e;
+    border: 2px solid #faf5ff;
+    float: left;
+    height: 96px;
+    width: 96px;
+    line-height: 96px;
+
+}
+.cell:hover{
+    border-color: cadetblue;
+}
+
+.text{
+    margin-left: 65px;
+    font-size: 22px;
+}
+
+.restart{
+margin-left: 90px;
+    margin-top: 30px;
+    float: left;
+}
